@@ -1,0 +1,7 @@
+动态主机配置协议DHCP（Dynamic Host Configuration Protocol）
+一种网络管理协议，用于集中对用户IP地址进行动态管理和配置
+1993年10月成为标准协议
+其前身是BOOTP协议
+DHCP协议由RFC 2131定义，采用客户端/服务器通信模式
+由客户端（DHCP Client）向服务器（DHCP Server）提出配置申请
+DHCP Server为网络上的每个设备动态分配IP地址、子网掩码、默认网关地址，域名服务器（DNS）地址和其他相关配置参数，以便可以与其他IP网络通信
